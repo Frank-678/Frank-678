@@ -17,9 +17,9 @@
   - **Open Source Initiatives**: Contributions to open-source projects that benefit the developer community.
 
 - 📫 How to reach me:
-  - **Email**: zj982659577@gmail.com
+  - **Email**: 
   - **LinkedIn**: 
-  - **Twitter**: @Frank9471353861
+  - **Twitter**: 
   - **GitHub**: Feel free to open an issue or pull a request on my repositories.
 
 - 😄 Pronouns: He/Him
