@@ -6,8 +6,8 @@
 
 🛠 **I'm currently working on:** The "Life of One Chip" project and preparing for the Loongson Cup.
 
-⚙️ **I'm learning to working on:** High-performance computing (HPC) and AI infrastructure.
+⚙️ **I'm learning to work on:** High-performance computing (HPC) and AI infrastructure.
 
 📫 **How to reach me:** Please send an email to frank678.vip@protonmail.com.
 
-😄 **Pronouns:** He/Him, or else you like.
+😄 **Pronouns:** He/Him, or whatever you prefer.
